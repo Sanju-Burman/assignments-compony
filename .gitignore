@@ -1,0 +1,22 @@
+# Node.js specific
+node_modules/
+npm-debug.log
+.env
+.DS_Store
+*.log
+coverage/
+build/
+dist/
+
+# Docker specific
+Dockerfile.backup
+*.swp
+.dockerignore
+
+# IDE specific
+.vscode/
+.idea/
+
+# Operating System specific
+.Trash/
+Thumbs.db
